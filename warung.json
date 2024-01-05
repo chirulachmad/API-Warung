@@ -5,6 +5,18 @@
         "nama": "Warung Makan Sederhana",
         "alamat": "Jl. Contoh No. 123",
         "gambar_url": "https://example.com/warung1.jpg"
-    }
+    },
+    {     
+        "id": 1,
+        "nama": "Warung Makan Sederhana",
+        "alamat": "Jl. Contoh No. 123",
+        "gambar_url": "https://example.com/warung1.jpg"
+    },
+    {     
+        "id": 1,
+        "nama": "Warung Makan Sederhana",
+        "alamat": "Jl. Contoh No. 123",
+        "gambar_url": "https://example.com/warung1.jpg"
+    },
   ]
 }
