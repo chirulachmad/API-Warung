@@ -2,21 +2,33 @@
     "data_warung" [  
     {     
         "id": 1,
-        "nama": "Warung Makan Sederhana",
-        "alamat": "Jl. Contoh No. 123",
-        "gambar_url": "https://example.com/warung1.jpg"
+      "namaWarung": "Warung Makan Sederhana",
+      "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
+      "telepon": "08123456789",
+      "buka": "08:00",
+      "tutup": "20:00",
+      "gambar_url": "https://example.com/warung1.jpg",
+      "alamat": "Jl. Contoh No. 123"
     },
     {     
-        "id": 1,
-        "nama": "Warung Makan Sederhana",
-        "alamat": "Jl. Contoh No. 123",
-        "gambar_url": "https://example.com/warung1.jpg"
+        "id": 2,
+      "namaWarung": "Warung Makan Sederhana",
+      "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
+      "telepon": "08123456789",
+      "buka": "08:00",
+      "tutup": "20:00",
+      "gambar_url": "https://example.com/warung1.jpg",
+      "alamat": "Jl. Contoh No. 123"
     },
     {     
-        "id": 1,
-        "nama": "Warung Makan Sederhana",
-        "alamat": "Jl. Contoh No. 123",
-        "gambar_url": "https://example.com/warung1.jpg"
+        "id": 3,
+      "namaWarung": "Warung Makan Sederhana",
+      "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
+      "telepon": "08123456789",
+      "buka": "08:00",
+      "tutup": "20:00",
+      "gambar_url": "https://example.com/warung1.jpg",
+      "alamat": "Jl. Contoh No. 123"
     },
   ]
 }
