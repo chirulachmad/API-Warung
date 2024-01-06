@@ -2,33 +2,13 @@
     "data_warung" [  
     {     
         "id": 1,
-      "namaWarung": "Warung Makan Sederhana",
+      "namaWarung": "kopisae",
       "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
       "telepon": "08123456789",
       "buka": "08:00",
       "tutup": "20:00",
       "gambar_url": "https://example.com/warung1.jpg",
-      "alamat": "Jl. Contoh No. 123"
-    },
-    {     
-        "id": 2,
-      "namaWarung": "Warung Makan Sederhana",
-      "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
-      "telepon": "08123456789",
-      "buka": "08:00",
-      "tutup": "20:00",
-      "gambar_url": "https://example.com/warung1.jpg",
-      "alamat": "Jl. Contoh No. 123"
-    },
-    {     
-        "id": 3,
-      "namaWarung": "Warung Makan Sederhana",
-      "deskripsi": "Warung Makan Sederhana menyajikan masakan tradisional dengan harga terjangkau.",
-      "telepon": "08123456789",
-      "buka": "08:00",
-      "tutup": "20:00",
-      "gambar_url": "https://example.com/warung1.jpg",
-      "alamat": "Jl. Contoh No. 123"
+      "alamat": "jalan kyai Abdul Karim, RW 04, Rungkut Menanggal, Ganung Anyar, Surabaya, Jawa Timur, Jawa, 60293, Indonesia"
     },
   ]
 }
